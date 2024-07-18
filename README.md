@@ -56,8 +56,7 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
    ```
 3. **Configure Your Wallet**: Update the configuration file with your wallet details and desired settings.
 
-4. **Run the Bots**: 
-   - To run the solana bot package project:
+4. **Run the Bots**:
      ```bash
      npm run start
      ```
