@@ -1,0 +1,12 @@
+.env
+/node_modules
+package-lock.json
+/dist
+todo.txt
+data.json
+priv
+minting.json
+cretePoollog.json
+mine.json
+test.json
+test.ts

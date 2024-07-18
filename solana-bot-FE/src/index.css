@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #757575;
+    border-radius: 5px;
+    outline: 1px solid white;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #E9E1D0;
+    border-radius: 10px;
+    border: 1px solid #757575;
+}
+
+:root {
+    font-size: 20px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number].disable {
+    background-color: #757575;
+}
