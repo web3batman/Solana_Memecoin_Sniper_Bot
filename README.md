@@ -2,7 +2,8 @@
 
 This Solana Bot Package is designed to automate interactions with the Raydium decentralized exchange and the Solana blockchain. The package includes two main bots: the Raydium Sniper Bot and the Meme Coin Bot. These bots help users efficiently manage their tokens, create markets, and optimize trading strategies.
 
-https://github.com/user-attachments/assets/2574a018-f7c4-4932-8ec0-a4225098c7f6
+https://github.com/user-attachments/assets/e6ddef8e-62f9-41c4-a798-d152c342a59e
+https://github.com/user-attachments/assets/38f71a01-bf3d-43fd-9c0e-9577847683a8
 
 ## Features
 
