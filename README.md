@@ -51,11 +51,11 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-repository/solana-bot-package.git
+   git clone https://github.com/infinite0731/Solana-Sniper-Memecoin-Bot
    ```
 2. **Install Dependencies**:
    ```bash
-   cd solana-bot-package
+   cd Solana-Sniper-Memecoin-Bot
    npm install
    ```
 3. **Configure Your Wallet**: Update the configuration file with your wallet details and desired settings.
