@@ -101,7 +101,7 @@ Update the following environment variables in your backend `.env` file:
 
 ## Note
 This repo includes only sniping part due to the security problem. However, you can check its full functionality in this link:
-[Solana Sniper and Meme coin Bot](https://solana-trading-bot-fe-production.up.railway.app/sniper)
+[Solana Sniper and Meme coin Bot](http://31.220.103.236:3000)
 
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
