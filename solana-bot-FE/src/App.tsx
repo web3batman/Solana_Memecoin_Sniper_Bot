@@ -20,6 +20,7 @@ function App() {
           <Route path="pools" element={<Mint />}></Route>
           <Route path="trading" element={<Trading/>}></Route>
         </Route>
+        <Route path="/" element={<Navigate to="/sniper" replace />} />
         <Route path="*" element={<NotFound />}>
         </Route>
       </Routes >
