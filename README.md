@@ -99,11 +99,14 @@ Update the following environment variables in your backend `.env` file:
 - `COMMITMENT_LEVEL=`: Set the commitment level.
 - `ORIGIN_URL=`: The frontend URL for allowing CORS.
 
-## Note
-This repo includes only sniping part due to the security problem. However, you can check its full functionality in this link:
-[Solana Sniper and Meme coin Bot](http://31.220.103.236:3000)
-
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
-
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+<p>
+  <a href="mailto:leobrandt0912@gmail.com" target="_blank">
+        <img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+     <a href="https://x.com/web3batman" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://t.me/shinnyleo0912" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
